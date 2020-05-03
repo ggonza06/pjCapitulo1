@@ -1,6 +1,5 @@
-print 'This is a test'
-set x = 6
-if (x=6):
-    print "Hello World"
-else:
-    
+print ('This is a test')
+x = 6
+print ('Hello World')
+bnum = True
+print (bnum)
