@@ -7,3 +7,4 @@ x = 6
 print ('Hello World')
 bnum = True
 print (bnum)
+print ("Give me more power")
